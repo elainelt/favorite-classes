@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elainelt/favorite-classes/static/css/main.75cd04c4.css",
-    "main.js": "/elainelt/favorite-classes/static/js/main.66fd81a2.js",
-    "static/js/787.046847d7.chunk.js": "/elainelt/favorite-classes/static/js/787.046847d7.chunk.js",
-    "static/media/logo.svg": "/elainelt/favorite-classes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/elainelt/favorite-classes/index.html",
-    "main.75cd04c4.css.map": "/elainelt/favorite-classes/static/css/main.75cd04c4.css.map",
-    "main.66fd81a2.js.map": "/elainelt/favorite-classes/static/js/main.66fd81a2.js.map",
-    "787.046847d7.chunk.js.map": "/elainelt/favorite-classes/static/js/787.046847d7.chunk.js.map"
+    "main.css": "/favorite-classes/static/css/main.75cd04c4.css",
+    "main.js": "/favorite-classes/static/js/main.95be97a2.js",
+    "static/js/787.046847d7.chunk.js": "/favorite-classes/static/js/787.046847d7.chunk.js",
+    "static/media/logo.svg": "/favorite-classes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/favorite-classes/index.html",
+    "main.75cd04c4.css.map": "/favorite-classes/static/css/main.75cd04c4.css.map",
+    "main.95be97a2.js.map": "/favorite-classes/static/js/main.95be97a2.js.map",
+    "787.046847d7.chunk.js.map": "/favorite-classes/static/js/787.046847d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75cd04c4.css",
-    "static/js/main.66fd81a2.js"
+    "static/js/main.95be97a2.js"
   ]
 }
