@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Class from "../Class/Class";
+import ClassGraphQL from '../Class/ClassGraphQL';
 import "./Home.css";
 
 function Home(props) {
@@ -23,21 +23,17 @@ function Home(props) {
     }
 
     return (
-        <div id="paper">
-            <div id="pattern">
+            <div>
             <h1>My Favorite Classes!</h1> 
             <form onSubmit={handleSubmit}>
                 <label className='prompt'>Add Favorite Class </label>
                 <input type="text" value={value} onChange={handleChange}></input>
                 <button type="submit">Add Class!</button>
             </form> 
-            <div id="content">
             <div className="my-classes">
                 {favoriteClasses.map((favClass) =>
-                    <Class name={favClass} key={favClass}></Class>
+                    <ClassGraphQL name={favClass} key={favClass}></ClassGraphQL>
                 )}
-            </div>
-            </div>
             </div>
         </div>
     )
